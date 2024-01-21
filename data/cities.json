@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-21T07:19:22.923Z",
+      "notes": "",
+      "position": {
+        "lat": "28.51198062034709",
+        "lng": "77.29957282848062"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Castanet",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-21T07:48:21.201Z",
+      "notes": "",
+      "position": {
+        "lat": "44.25801188822905",
+        "lng": "2.306879005913616"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Harbatsevichy",
+      "country": "Belarus",
+      "emoji": "🇧🇾",
+      "date": "2024-01-21T07:48:28.560Z",
+      "notes": "",
+      "position": {
+        "lat": "53.158979335478456",
+        "lng": "29.003512035068823"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Iitti",
+      "country": "Finland",
+      "emoji": "🇫🇮",
+      "date": "2024-01-21T07:48:42.393Z",
+      "notes": "",
+      "position": {
+        "lat": "60.883238041775755",
+        "lng": "26.190579043461256"
+      },
+      "id": 98443201
+    }
+  ]
+}
